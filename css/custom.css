@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* --------------------------------- slick slider over write css */
+.slick-prev:before,
+.slick-next:before {
+  color: black;
+}
+.houses {
+  background-color: aliceblue;
+}
+.ministry-slider {
+  background-color: aliceblue;
+}
